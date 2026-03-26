@@ -1,5 +1,11 @@
 # 🛡️ OverlayAlarm — Sistema Inteligente de Alarme por Visão Computacional
 
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
 > **Solução de monitoramento em tempo real para detecção de violação de vidros, barreiras físicas e áreas de segurança, diretamente sobre a tela do Windows — sem câmeras externas.**
 
 ---
